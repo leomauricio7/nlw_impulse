@@ -6,11 +6,11 @@
 
 
 ### Rodar Migrate Prisma (Criar seus schemas no banco de dados)
-``yarn prisma migrate dev`` or ``npx prisma migrate dev`
+``yarn prisma migrate dev`` or ``npx prisma migrate dev``
 
 
 ### Rodar Studio Prisma (Visualiza as tabelas e seus dados)
-``yarn prisma studio`` or ``npx prisma studio`
+``yarn prisma studio`` or ``npx prisma studio``
 
 ### Links Importantes
 - https://www.prisma.io/
